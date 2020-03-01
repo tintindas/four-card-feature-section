@@ -49,7 +49,7 @@ body {
 .card {
   margin: 10px;
   padding: 10px;
-  box-shadow: 5px 5px 5px hsl(229, 6%, 66%), 2px 5px 5px hsl(234, 12%, 34%);
+  box-shadow: 2px 5px 25px hsla(212, 76%, 54%, 0.2);
   border-radius: 4px;
 }
 
