@@ -76,8 +76,8 @@ body {
 
 .card1 {
   border-top: solid 3px hsl(0, 78%, 62%);
-  margin-top: 85px;
-  margin-bottom: -85px;
+  margin-top: 105px;
+  margin-bottom: -105px;
   grid-column: 3/5;
 }
 
@@ -93,9 +93,9 @@ body {
 
 .card4{
   border-top: solid 3px hsl(34, 97%, 64%);
-  margin-top: -85px;
+  margin-top: -105px;
   grid-column: 3/5;
-  margin-bottom: 85px;
+  margin-bottom: 105px;
 }
 
 /* MOBILE */
