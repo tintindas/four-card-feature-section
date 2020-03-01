@@ -100,7 +100,7 @@ body {
 
 /* MOBILE */
 
-@media (max-width: 375px) {
+@media (max-width: 950px) {
   .card-grid{
     display: block;
   }
@@ -110,7 +110,7 @@ body {
   }
 
   .card img{
-    margin-left: 70%;
+    margin-left: 75%;
   }
 
   .card1{
@@ -121,21 +121,4 @@ body {
     margin-top: 0;
     margin-bottom: 10vh;
   }
-}
-
-
-@media (max-width: 1120px) {
-
-  .card img {
-    margin-left: 70%;
-  }
-
-}
-
-@media (max-width: 950px) {
-
-  .card img {
-    margin-left: 60%;
-  }
-
 }
